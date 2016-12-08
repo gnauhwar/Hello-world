@@ -1,1 +1,1 @@
-Select * from allocation;
+Select * from allocation limit 1000;
